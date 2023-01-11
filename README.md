@@ -11,6 +11,4 @@ Download 'code' folder and open index.html in desired web browser. Scroll slowly
 Code written and images created by Lalima Bhola
 
 ## References 
-https://greensock.com/docs/v3/
-https://www.learnwithjason.dev/interactive-svg-animations-using-greensock
-https://www.learnwithjason.dev/make-animations-feel-pro
+https://greensock.com/docs/v3/, https://www.learnwithjason.dev/interactive-svg-animations-using-greensock, https://www.learnwithjason.dev/make-animations-feel-pro
